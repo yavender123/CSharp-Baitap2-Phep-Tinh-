@@ -1,0 +1,14 @@
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\bin\Debug\net8.0\Bai 2( Phep tinh ).exe
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\bin\Debug\net8.0\Bai 2( Phep tinh ).deps.json
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\bin\Debug\net8.0\Bai 2( Phep tinh ).runtimeconfig.json
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\bin\Debug\net8.0\Bai 2( Phep tinh ).dll
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\bin\Debug\net8.0\Bai 2( Phep tinh ).pdb
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\Bai 2( Phep tinh ).GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\Bai 2( Phep tinh ).AssemblyInfoInputs.cache
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\Bai 2( Phep tinh ).AssemblyInfo.cs
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\Bai 2( Phep tinh ).csproj.CoreCompileInputs.cache
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\Bai 2( Phep tinh ).dll
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\refint\Bai 2( Phep tinh ).dll
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\Bai 2( Phep tinh ).pdb
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\Bai 2( Phep tinh ).genruntimeconfig.cache
+D:\Code Visual Studio Code\Bai 2( Phep tinh )\obj\Debug\net8.0\ref\Bai 2( Phep tinh ).dll
