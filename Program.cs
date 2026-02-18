@@ -6,20 +6,17 @@ class Bai2
         //Loi mo dau
         Console.WriteLine($"Hello!");
 
-        //Dien so
-        Console.WriteLine($"Enter your number: ");
-        int number = int.Parse(Console.ReadLine()!);
-        
-        //Tinh phep tinh tong
-        Console.WriteLine($"Tong: {number} + {number} = {number+number}");
+        //Nhap so
+        Console.WriteLine($"Number one: ");
+        int number1 = int.Parse(Console.ReadLine()!);
 
-        //Tinh phep tinh tru
-        Console.WriteLine($"Hieu: {number} - {number} = {number-number}");
+        Console.WriteLine($"Number two: ");
+        int number2 = int.Parse(Console.ReadLine()!);
 
-        //Tinh phep tinh nhan
-        Console.WriteLine($"Tich: {number} * {number} = {number*number}");
-
-        //Tinh phep tinh chia
-        Console.WriteLine($"Thuong: {number} / {number} = {number/number}");
+        //Tinh
+        Console.WriteLine($"Tong: {number1} + {number2} = {number1 + number2}");
+        Console.WriteLine($"Hieu: {number1} - {number2} = {number1 - number2}");
+        Console.WriteLine($"Tich: {number1} * {number2} = {number1 * number2}");
+        Console.WriteLine($"Thuong: {number1} / {number2} = {number1 / number2}");
     }
 }
