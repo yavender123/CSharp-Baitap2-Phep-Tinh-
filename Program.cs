@@ -3,15 +3,15 @@ class Bai2
 {
     static void Main(string[] args)
     {
-        //Loi khoi dau
+        //Opening
         Console.WriteLine($"Hello!");
 
-        //Nhap so
-        Console.WriteLine($"Enter your number one: ");
-        int number1 = int.Parse(Console.ReadLine()!);
+        //Enter number
+        Console.WriteLine($"Enter your first number: ");
+        double number1 = double.Parse(Console.ReadLine()!);
 
         Console.WriteLine($"Enter your number two: ");
-        int number2 = int.Parse(Console.ReadLine()!);
+        double number2 = double.Parse(Console.ReadLine()!);
 
         //Phep tinh va in ra destop
         Console.WriteLine($"Tong: {number1 + number2}");

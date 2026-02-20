@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai 2( Phep tinh )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56fb9daf3e545574cc2d8da9357e853f3426ad39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f698f05a0846d06b897b2aa8bde3e423052acd5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai 2( Phep tinh )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai 2( Phep tinh )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
